@@ -1,0 +1,37 @@
+body{
+    margin: 50px;
+    background-color: rgb(51, 192, 197);
+}
+
+.calculator{
+    padding: 15px;
+    border-radius: 15px;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-color: lime;
+}
+
+.display-box{
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+}
+
+
+input[type=button] {
+    background-color: #461dec;
+    color: #fff;
+    border: solid black 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+    font-size: 20px;
+}
+
+#color{
+    background-color: #ed4f4f;
+}
